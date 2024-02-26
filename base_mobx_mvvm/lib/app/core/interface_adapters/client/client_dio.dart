@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:base_mobx_mvvm/app/core/packages/dio/custom_dio.dart';
+import 'package:base_mobx_mvvm/app/core/interface_adapters/dio/custom_dio.dart';
 import 'package:dio/dio.dart';
 
 import 'client_response.dart';
